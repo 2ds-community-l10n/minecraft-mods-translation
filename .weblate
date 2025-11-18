@@ -1,0 +1,10 @@
+[weblate]
+url = http://weblate.yizhouuu.com/api/
+
+[longwings.translations]
+name = Longwings
+filemask = longwings/*_*.json
+new_base = longwings/en_us.json
+file_format = json
+source_language = en_us
+new_lang = add
